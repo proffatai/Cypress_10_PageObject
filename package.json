@@ -1,0 +1,16 @@
+{
+  "name": "cypress_10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ibraz": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.4.0",
+    "typescript": "^4.7.4"
+  }
+}
